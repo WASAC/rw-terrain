@@ -1,6 +1,7 @@
 # rw-terrain
-10m terrain RGB raster tilesets in Rwanda
 ![GitHub](https://img.shields.io/github/license/wasac/rw-terrain)
+
+10m terrain RGB raster tilesets in Rwanda
 
 This is to provide terrain RGB raster tilesets which was generated from 10m DEM owned by [Water and Sanitation Corporation (WASAC)(https://www.wasac.rw) in Rwanda.
 
